@@ -2,6 +2,10 @@
 
 The **Voice-Controlled Robotic Hand** is a functional robotic prototype that responds to user voice commands to simulate various hand movements. Built using microcontroller-based hardware, servo motors, and speech recognition software, it demonstrates the integration of mechanical systems with artificial intelligence.
 
+> ⚠️ **Note:** Due to security reasons involving proprietary APIs and machine learning services, the source code is not shared in this repository.
+
+---
+
 ## 🔧 Features
 
 - Accepts voice commands such as "open hand", "close hand", "point", and more
