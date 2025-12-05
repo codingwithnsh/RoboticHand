@@ -28,7 +28,7 @@ The **Voice-Controlled Robotic Hand** is a functional robotic prototype that res
 - Serial/Bluetooth communication protocols
 
 ## 🚀 How It Works
-
+  
 1. The user speaks a command (e.g., "close hand").
 2. The system processes the speech and sends the corresponding signal to the microcontroller.
 3. The microcontroller activates specific servo motors to perform the desired motion.
@@ -37,6 +37,3 @@ The **Voice-Controlled Robotic Hand** is a functional robotic prototype that res
 
 This project is open for educational and personal use. Redistribution of original source code is restricted due to security considerations.
 
-## 🙋‍♂️ Author
-
-Made by [Your Name] – A tech enthusiast passionate about robotics and AI.
